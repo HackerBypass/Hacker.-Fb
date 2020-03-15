@@ -1,2 +1,24 @@
+@@ -1 +1,25 @@
 # Hacker.-Fb
-For Public Hack Fb
+# Hacker.-Fb
+
+Download Lisensi Dulu Brow : https://autoratio.com/dle0p
+
+$ pkg update && pkg upgrade
+
+$pkg install python2
+
+$pkg install git
+
+$pip2 install mechanize
+
+$pip2 install requests
+
+$git clone https://github.com/kangcoli/Donefb
+
+$ls
+
+$cd Donefb
+
+$python2 Donefb.py
+
